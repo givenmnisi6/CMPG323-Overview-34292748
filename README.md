@@ -10,4 +10,4 @@
 </ul>
 
 ## Links to repositories
-<li> <a href = "https://github.com/users/givenmnisi6/projects/1"> Kanban Project </a></li>
+<li> <a href = "https://github.com/givenmnisi6/CMPG323-Overview-34292748"> Overview </a></li>
