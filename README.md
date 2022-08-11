@@ -9,5 +9,5 @@
 <li>Project 5 - Reporting & Monitoring</li>
 </ul>
 
-##Links to repositories
-<a href = "link"> Link Name </a>
+## Links to repositories
+<li> <a href = "https://github.com/users/givenmnisi6/projects/1"> Kanban Project </a></li>
