@@ -28,6 +28,8 @@ This strategy eliminates a lot of room for error, if something goes wrong, I can
 <li>Hotfix - to assist when there's a bug that has been found and needs fixing in production. A hotfix originates from the master branch and merges back into the master and develops. </li>
 </ul>
 
+## Context Diagram
+
 ## Reference List
 <ul>
 <li><p>Nick Chapsas. (2021, Aug 10).<i> Getting started with branching workflows, Git Flow and GitHub Flow.</i> [Video]. YouTube. https://youtu.be/gW6dFpTMk8s <br></li>
