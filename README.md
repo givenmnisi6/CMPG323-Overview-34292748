@@ -29,6 +29,7 @@ This strategy eliminates a lot of room for error, if something goes wrong, I can
 </ul>
 
 ## Context Diagram
+<img src="/Images/Context diagram.png" alt="Context Diagram">
 
 ## Reference List
 <ul>
