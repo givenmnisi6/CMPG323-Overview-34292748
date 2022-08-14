@@ -1,6 +1,6 @@
 # CMPG323-Overview-34292748
 
-## Repositories Created
+## Repositories 
  <ul>
 <li>Project 1 - Agile & Srcum</li>
 <li>Project 2 - APIs Development</li>
