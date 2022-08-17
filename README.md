@@ -43,8 +43,10 @@ In terms of storing sensitive credentials, I’ll utilize  Azure Key Vault. Azur
 <ul>
 <li><p>Nick Chapsas. (2021, Aug 10).<i> Getting started with branching workflows, Git Flow and GitHub Flow.</i> [Video]. YouTube. https://youtu.be/gW6dFpTMk8s <br></li>
 <li><p>Valaxy Technologies. (2020, Oct 6).<i>Branching Strategies on Git | Real-time Git Branching Strategy for a DevOps project</i>. [Video]. YouTube https://youtu.be/Bg8tiOLZw4A <br></li>
+<li><p>Adam Marczak. (2020, Oct 21).<i> AZ-900 Episode 27 | Azure Key Vault | Secret, Key and Certificate Management.</i> [Video]. YouTube https://youtu.be/AA3yYg9Zq9w <br></li>
 <li><p>Devchild. (2018, Sept 2).<i> The gitflow workflow - in less than 5 mins.</i> [Video]. YouTube https://youtu.be/1SXpE08hvGs <br></li>
 <li><p>Rowan Haddad. (2022).<i> What Are the Best Git Branching Strategies.</i> <a href="https://www.flagship.io/git-branching-strategies/">Git Branching Strategies: GitFlow, Github Flow, Trunk Based</a>. Date of access: 08 March 2022.<br></li>
+<li><p>David Coulter. (2021).<i> Quickstart: Set and retrieve a secret from Azure Key Vault using the Azure portal. </i><a href="https://docs.microsoft.com/en-us/azure/key-vault/secrets/quick-create-portal">Quickstart: Set and retrieve a secret from Azure Key Vault using the Azure portal </a>. Date of access: 14 Dec. 2021.<br></li>
 <li><p>Quang Nguyen. (2021). <i>Git-Flow vs GitHub-Flow.</i> Git-Flow vs GitHub-Flow. <a href="https://quangnguyennd.medium.com/git-flow-vs-github-flow-620c922b2cbd">Git vs GitHub pros and cons. continuous… | by Quang Nguyen | Medium</a>. Date of access: 10 Sep 2021.<br></li> 
-<li><p>CodeWall. (2019). <i>A Git-Flow Explainer & How To Tutorial.</i><a href="https://www.codewall.co.uk/a-git-flow-explainer-how-to-tutorial/">A Git-Flow Explainer & How To Tutorial - Code Wall</a>. Date of access: 30 May 2019. (CodeWall, 2019)<br></li> 
+<li><p>CodeWall. (2019). <i>A Git-Flow Explainer & How To Tutorial.</i><a href="https://www.codewall.co.uk/a-git-flow-explainer-how-to-tutorial/">A Git-Flow Explainer & How To Tutorial - Code Wall</a>. Date of access: 30 May 2019.<br></li> 
 </ul>
