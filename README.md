@@ -31,6 +31,11 @@ This strategy eliminates a lot of room for error, if something goes wrong, I can
 <li>Hotfix - to assist when there's a bug that has been found and needs fixing in production. A hotfix originates from the master branch and merges back into the master and develops. </li>
 </ul>
 
+## .gitignore files
+<li>In my API Project, I'll use gitignore anytime I save code in a public repository and want to secure it so that it’s not publicly accessible.</li>
+<li>Under my MVC Web Application, I intend to use gitignore to ignore the bin and obj folders; I just want the source code in source control. </li>
+<li>In terms of RPA, I'm going to gitignore files that will continuously change and have little to do with the actual code. As well as the Reporting & Testing project. </li>
+</ul>
 
 ## Reference List
 <ul>
