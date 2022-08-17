@@ -9,8 +9,10 @@
 <li>Project 5 - Reporting & Monitoring</li>
 </ul>
 
-## Links to repositories
-<li> <a href = "https://github.com/givenmnisi6/CMPG323-Overview-34292748"> Overview </a></li>
+
+## Context Diagram
+<img src="/Images/Context diagram.png" alt="Context Diagram">
+Regarding my project I'm going to have each repository for each project if source control is needed. Essentially I'm going to have 5 different repositories and one project where all the of them come together through one "Kanban".
 
 ## Branching Strategy
 
@@ -28,8 +30,6 @@ This strategy eliminates a lot of room for error, if something goes wrong, I can
 <li>Hotfix - to assist when there's a bug that has been found and needs fixing in production. A hotfix originates from the master branch and merges back into the master and develops. </li>
 </ul>
 
-## Context Diagram
-<img src="/Images/Context diagram.png" alt="Context Diagram">
 
 ## Reference List
 <ul>
