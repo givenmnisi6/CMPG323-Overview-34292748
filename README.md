@@ -1,7 +1,7 @@
 # CMPG323-Overview-34292748
 
 ## Repositories
-In my approach to this semester I'm going to have five repositories for each project below:
+In my approach to this semester I'm going to have five repositories for each project, meaning when i'm submitting the work i will be submitting 5 repositories below:
  <ul>
 <li>Project 1 - Agile & Srcum</li>
 <li>Project 2 - APIs Development</li>
