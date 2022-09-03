@@ -3,7 +3,7 @@
 ## Repositories
 In my approach to this semester I'm going to have five repositories for each project, meaning when i'm submitting the work i will be submitting five repositories below:
  <ul>
-<li>Project 1 - Agile & Srcum</li>
+<li>Project 1 - Agile & Srcum: <a href= "https://github.com/users/givenmnisi6/projects/1"> Kanban Project </a></li>
 <li>Project 2 - <a href= "https://github.com/givenmnisi6/CMPG323-Project-2-34292748"> APIs Development</a></li>
 <li>Project 3 - Standards & Patterns</li>
 <li>Project 4 - Testing & RPA</li>
