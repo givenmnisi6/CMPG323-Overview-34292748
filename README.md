@@ -50,4 +50,15 @@ In terms of storing sensitive credentials, I’ll utilize  Azure Key Vault. Azur
 <li><p>Tara Rosen. (2020).<i> How To Create A .gitignore File To Hide Your API Keys. </i><a href="https://medium.com/@t.rosen2101/how-to-create-a-gitignore-file-to-hide-your-api-keys-95b3e6692e41">How To Create A .gitignore File To Hide Your API Keys</a>. Date of access: 20 Mar. 2020
 <li><p>Quang Nguyen. (2021). <i>Git-Flow vs GitHub-Flow.</i> Git-Flow vs GitHub-Flow. <a href="https://quangnguyennd.medium.com/git-flow-vs-github-flow-620c922b2cbd">Git vs GitHub pros and cons. continuous… | by Quang Nguyen | Medium</a>. Date of access: 10 Sep 2021.<br></li> 
 <li><p>CodeWall. (2019). <i>A Git-Flow Explainer & How To Tutorial.</i><a href="https://www.codewall.co.uk/a-git-flow-explainer-how-to-tutorial/">A Git-Flow Explainer & How To Tutorial - Code Wall</a>. Date of access: 30 May 2019.<br></li> 
+<li><p>Zhou, W., Li, L., Luo, M. and Chou, W., 2014, May. REST API design patterns for SDN northbound API. <i> In 2014 28th international conference on advanced information networking and applications workshops </i> (pp. 358-365). IEEE.<br></li> 
+<li><p>Sohan, S.M., Maurer, F., Anslow, C. and Robillard, M.P., 2017, October. A study of the effectiveness of usage examples in REST API documentation.<i> In 2017 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)</i>(pp. 53-61). IEEE.<br></li> 
+<li><p>Masse, M., 2011.<i> REST API design rulebook: designing consistent RESTful web service interfaces </i>. " O'Reilly Media, Inc."<br></li> 
+<li><p>Chadwick, J., Snyder, T. and Panda, H., 2012. <i>Programming ASP. NET MVC 4: Developing Real-World Web Applications with ASP. NET MVC</i>. " O'Reilly Media, Inc."<br></li> 
+<li><p>Soni, A. and Ranga, V., 2019. API features individualizing of web services: REST and SOAP.<i>International Journal of Innovative Technology and Exploring Engineering </i>, 8(9), pp.664-671.<br></li> 
+<li><p>Mumbaikar, S. and Padiya, P., 2013. Web services based on soap and rest principles.<i> International Journal of Scientific and Research Publications, 3</i>(5), pp.1-4.<br></li> 
+<li><p>Halili, F. and Ramadani, E., 2018. Web services: a comparison of soap and rest services. <i>Modern Applied Science, 12</i>(3), p.175.<br></li> 
+<li><p>De, B., 2017. API documentation. <i>In API Management </i>(pp. 59-80). Apress, Berkeley, CA.<br></li> 
+<li><p>Haunts, S., 2019. Key Storage and Azure Key Vault.<i> In Applied Cryptography in. NET and Azure Key Vault </i>(pp. 143-168). Apress, Berkeley, CA.<br></li> 
+<li><p>Herath, P., 2022. Working with Azure Key Vault. <i>In Azure Cloud Security for Absolute Beginners</i> (pp. 71-91). Apress, Berkeley, CA.<br></li> 
+ 
 </ul>
