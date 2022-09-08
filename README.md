@@ -68,4 +68,19 @@ In terms of storing sensitive credentials, I’ll utilize  Azure Key Vault. Azur
 <li><p>WafaStudies. (2020, Jun 5).<i> Store Secrets in Azure Key Vault using Azure Portal</i>. [Video]. YouTube https://youtu.be/Rb7qz_emvsg<br></li>
 <li><p>Paddy Maddy. (2020, Dec 24).<i> Storage Account service Encryption Azure KeyVault secret key encryption</i>. [Video]. YouTube https://youtu.be/N6nNJ_NrbS4<br></li>
 
+<li><p>C. Nienaber & R. Suter. (2022, Mar). <i>ASP.NET Core web API documentation with Swagger / OpenAPI</i>. https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1 </li>
+<li><p> R. Anderson & K. Larkin. (2022, Aug).<i>Tutorial: Create a web API with ASP.NET Core</i>. https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio</li>
+<li><p>R. Anderson & K. Larkin. (2022, Jul).<i> Configuration in ASP.NET Core</i>. https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-6.0</li>
+<li><p>Sanjay. (2021, Jul).<i> Entity Framework Core in ASP.NET Core 3.1 – Getting Started</i>. https://procodeguide.com/programming/entity-framework-core-in-asp-net-core/</li>
+<li><p>J. Muller. (2022, Jan). <i>Join two entities in.NET Core, using lambda and Entity Framerwork Core</i>. https://jd-bots.com/2022/01/24/join-two-entities-in-net-core-using-lambda-and-entity-framework-core/</li>
+<li><p> M. Soucoup. (2022, Mar). <i> Publish an ASP.NET Core web API to Azure API Management with Visual Studio </i>. https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0</li>
+<li><p>Price, M.J., 2019. <i>C# 8.0 and. NET Core 3.0–Modern Cross-Platform Development: Build applications with C#,. NET Core, Entity Framework Core, ASP. NET Core, and ML. NET using Visual Studio Code. Packt Publishing Ltd.</i></li>
+<li><p>Chanda, S. and Foggon, D., 2013. <i>Introducing Language-Integrated Query (LINQ)</i>. In Beginning ASP. NET 4.5 Databases (pp. 79-98). Apress, Berkeley, CA.
+<li><p> Azure Crash Course. <i>Azure API Management Crash Course.</i> [Video]. YouTube https://youtu.be/3z_XmIrGbsI</li>
+<li><p> DEVREAL. <i>Azure API Management in 7 (from provisioning to API deployment) - tutorial for beginners.</i> [Video]. YouTube https://youtu.be/Gu9reN09mXI
+<li><p> Microsoft Azure.<i> Azure API Management.</i> [Video]. YouTube https://youtu.be/0yf_xm5cPIo</li></li>
+<li><p>Reval Govender. <i>Git Flow Part 1 - What is Git Flow</i>. [Video]. YouTube https://youtu.be/6LhTe8Mz6jM</li>
+
+
+
 </ul>
