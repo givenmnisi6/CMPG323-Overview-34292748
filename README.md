@@ -38,7 +38,8 @@ This strategy eliminates a lot of room for error, if something goes wrong, I can
 </ul>
 
 ## Storage of Credentials
-In terms of storing sensitive credentials, I’ll utilize  Azure Key Vault. Azure Key Vault is a web service that allows you to secure crucial information like API keys, passwords, certificates, as well as other ssensitive information may be completely protected. Azure key vaults may be created and managed using the Azure portal. Azure has a key management platform. For example, in my web application, I must store connectivity configuration like server address, username, etc. So, Azure Vault will handle everything without the need for any code.
+In terms of storing sensitive credentials, I’ll utilize  JSON files. I will store all my connection strings in an appsettings.json file and gitignore it.
+
 ## Reference List
 <ul>
 <li><p>Nick Chapsas. (2021, Aug 10).<i> Getting started with branching workflows, Git Flow and GitHub Flow.</i> [Video]. YouTube. https://youtu.be/gW6dFpTMk8s <br></li>
