@@ -1,4 +1,4 @@
-# Overview-
+# Overview
 
 ## Repositories
 In my approach to this semester I'm going to have five repositories for each project, meaning when i'm submitting the work i will be submitting five repositories below:
