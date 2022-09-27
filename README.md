@@ -19,6 +19,7 @@ Regarding my project I'm going to have each repository for each project if sourc
 
 In all of my projects, Branching strategies will be used since I want to avoid conflicts when I am merging them and also allow a much easier integration of changes made into the main trunk. Moreover, to help organize a series of planned, structured releases. A branching strategy that I will be using in all of my projects is GitHub-Flow. Since all of the projects are individually and we have a single release version for each of our projects for each repository, GitHub-Flow is the winner for me. GitHub Flow is a simple and effective way to support continuous deployment and release. It gives me a delivery-focused project as possible.
 #### Implementation
+Most of my Implementation I will be using branches after major changes I push to my main branch and delete the branch I created. 
 <ul>
 <li>The main is being branched to the feature branch, then code is added to the feature branch.</li>
 <li>A pull request is created and pushed to pre-production while adding things and fixing bugs, when I'm content with the release I merge back to main.</li>
@@ -29,12 +30,14 @@ This strategy eliminates a lot of room for error, if something goes wrong, I can
 <li>Master (main) - for production purposes </li>
 <li>Feature/task - for the development of new features </li>
 <li>Hotfix - to assist when there's a bug that has been found and needs fixing in production. A hotfix originates from the master branch and merges back into the master and develops. </li>
+
 </ul>
 
 ## .gitignore files
-<li>In my API Project, I'll use gitignore anytime I save code in a public repository and want to secure it so that it’s not publicly accessible.</li>
-<li>Under my MVC Web Application, I intend to use gitignore to ignore the bin and obj folders; I just want the source code in source control. </li>
-<li>In terms of RPA, I'm going to gitignore files that will continuously change and have little to do with the actual code. As well as the Reporting & Testing project. </li>
+<li>In my API Project, I'll use gitignore to ignore the JSON files anytime I save code in a public repository and want to secure it so that it’s not publicly accessible.</li>
+<li>Under my MVC Web Application, I intend to use gitignore to ignore the bin, obj folders and JSON files; I just want the source code in source control. </li>
+<li>In terms of RPA, I'm going to gitignore files that will continuously change and have little to do with the actual code.</li>
+<li>In Reporting & Testing project i will be using JSON files that i will gitignore.. </li>
 </ul>
 
 ## Storage of Credentials
@@ -81,7 +84,17 @@ In terms of storing sensitive credentials, I’ll utilize  JSON files. I will st
 <li><p> DEVREAL. <i>Azure API Management in 7 (from provisioning to API deployment) - tutorial for beginners.</i> [Video]. YouTube https://youtu.be/Gu9reN09mXI
 <li><p> Microsoft Azure.<i> Azure API Management.</i> [Video]. YouTube https://youtu.be/0yf_xm5cPIo</li></li>
 <li><p>Reval Govender. <i>Git Flow Part 1 - What is Git Flow</i>. [Video]. YouTube https://youtu.be/6LhTe8Mz6jM</li>
-
-
+<li><p> Microsoft (2020). <i> ASP.NET MVC Overview</i>. https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview  </li>
+<li><p> Microsoft. <i> Secure a .NET web app with the ASP.NET Core Identity framework</i>. https://learn.microsoft.com/en-us/training/modules/secure-aspnet-core-identity/ </li>
+<li><p> Microsot. <i> Build web apps with ASP.NET Core for beginners. </i> https://learn.microsoft.com/en-us/training/paths/aspnet-core-web-app/ </li>
+<li><p> Kanchan Naik (2021, June 17). <i> Design Patterns In C# .NET . </i> https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ </li>
+<li><p> Manikavelu Velayutham (2012, May 13). <i> Architectural Patterns in .NET. </i> https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/ </li>
+<li><p> Microsoft (2022). <i> Design the infrastructure persistence layer</i>. https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design </li>
+<li><p> Bergman (2017, 20 April). <i> Repository Design Pattern </i>. https://medium.com/@pererikbergman/repository-design-pattern-e28c0f3e4a30 </li>
+<li><p> M. Coetzee & J. Muller. 2022, 8 Sept.<i> Patterns Intro </i>.[Video]. <a href= "https://www.dropbox.com/sh/p8fiokfpiqv4gud/AAC5X8SdanTnduTWYzVq4kQ7a?dl=0&preview=07+Cmpg+323+-+Patterns+Intro+Project+2+submission+8+Sept.m4v">Patterns Intro</a></li>
+<li><p> M. Coetzee & J. Muller. 2022, 15 Sept.<i> Design Patterns </i>.[Video]. <a href="https://www.dropbox.com/sh/p8fiokfpiqv4gud/AAC5X8SdanTnduTWYzVq4kQ7a?dl=0&preview=08+CMPG+323+-+Design+patternc+class+15+Sept.m4v">Design Patterns</a></li>
+<li><p> M. Coetzee. 2022, 13 Sept. <i> Best practise and standards </i>.[Video]. <a href="https://www.dropbox.com/sh/p8fiokfpiqv4gud/AAC5X8SdanTnduTWYzVq4kQ7a?dl=0&preview=08+CMPG323+-+Project+3+-+Best+practise+and+standards+13+Sept.m4v"> Best practise and standards </a></li>
+<li><p> M. Coetzee. 2022, 13 Sept. <i> WebApp demo </i>.[Video]. <a href="https://www.dropbox.com/sh/p8fiokfpiqv4gud/AAC5X8SdanTnduTWYzVq4kQ7a?dl=0&preview=08+CMPG323+-+Project+3+-+WebApp+demo+13+Sept.m4v"> WebApp demo </a></li> 
+<li><p>M. Coetzee & J. Muller. 2022, 20 Sept.<i> Project 3 repository Pattern concepts</i>. [Video] . <a href="https://www.dropbox.com/sh/p8fiokfpiqv4gud/AAC5X8SdanTnduTWYzVq4kQ7a?dl=0&preview=09+CMPG323+-+Project+3+repository+pattern+concepts+20+Sept+recording.mp4"> Project 3 repository Pattern concepts </a></li>
 
 </ul>
