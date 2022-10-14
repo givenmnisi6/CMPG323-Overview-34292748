@@ -1,7 +1,7 @@
 # Overview
 
 ## Repositories
-In my approach to this semester I'm going to have five repositories for each project, meaning when i'm submitting the work i will be submitting five repositories below:
+In my approach to this semester I'm going to have five repositories & all of them will be tied up into one Kanban Project, below here are the repositories:
  <ul>
 <li>Project 1 - Agile & Scrum: <a href= "https://github.com/users/givenmnisi6/projects/3"> Kanban Project </a></li>
 <li>Project 2 - <a href= "https://github.com/givenmnisi6/CMPG323-Project-2-34292748"> API Development</a></li>
