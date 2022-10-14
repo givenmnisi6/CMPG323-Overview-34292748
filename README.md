@@ -6,8 +6,8 @@ In my approach to this semester I'm going to use five repositories below:
 <li>Project 1 - Agile & Scrum: <a href= "https://github.com/users/givenmnisi6/projects/3"> Kanban Project </a></li>
 <li>Project 2 - <a href= "https://github.com/givenmnisi6/CMPG323-Project-2-34292748"> API Development</a></li>
 <li>Project 3 - <a href= "https://github.com/givenmnisi6/CMPG323-Project-3-34292748"> Standards & Patterns</a></li>
-<li>Project 4 - <a href= "https://github.com/givenmnisi6/CMPG323-Project-4-34292748" > Testing & RPA</a></li>
-<li>Project 5 - Reporting & Monitoring</li>
+<li>Project 4 - <a href= "https://github.com/givenmnisi6/CMPG323-Project-4-34292748"> Testing & RPA</a></li>
+<li>Project 5 - <a href= https://github.com/givenmnisi6/CMPG323-Project-5-34292748"> Reporting & Monitoring</a></li>
 </ul>
 
 
