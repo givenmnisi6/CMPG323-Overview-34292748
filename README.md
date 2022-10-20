@@ -36,7 +36,7 @@ This strategy eliminates a lot of room for error, if something goes wrong, I can
 ## .gitignore files
 <li>In my API Project, I'll use gitignore to ignore the JSON files anytime I save code in a public repository and want to secure it so that it’s not publicly accessible.</li>
 <li>Under my MVC Web Application, I intend to use gitignore to ignore the bin, obj folders and JSON files; I just want the source code in source control. </li>
-<li>In terms of RPA, I'm going to gitignore files that will continuously change and have little to do with the actual code.</li>
+<li>In terms of RPA, I'm going to gitignore files like entities, local, templates, screenshots, settings, tmh</li>
 <li>In Reporting & Testing project i will be using JSON files that i will gitignore.. </li>
 </ul>
 
