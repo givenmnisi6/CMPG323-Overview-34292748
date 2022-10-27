@@ -41,7 +41,8 @@ This strategy eliminates a lot of room for error, if something goes wrong, I can
 </ul>
 
 ## Storage of Credentials
-In terms of storing sensitive credentials, I’ll utilize  JSON files. I will store all my connection strings in an appsettings.json file and gitignore it.
+- In terms of storing sensitive credentials, I’ll utilize  JSON files. I will store all my connection strings in an appsettings.json file and gitignore it.
+- Moreover some credentials where stored in UiPath Orchestrator.
 
 ## Reference List
 <ul>
