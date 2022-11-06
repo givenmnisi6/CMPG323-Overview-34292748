@@ -35,14 +35,16 @@ This strategy eliminates a lot of room for error, if something goes wrong, I can
 
 ## .gitignore files
 <li>In my API Project, I'll use gitignore to ignore the JSON files anytime I save code in a public repository and want to secure it so that it’s not publicly accessible.</li>
-<li>Under my MVC Web Application, I intend to use gitignore to ignore the bin, obj folders and JSON files; I just want the source code in source control. </li>
-<li>In terms of RPA, I'm going to gitignore files like entities, local, templates, screenshots, settings, tmh</li>
-<li>In Reporting & Testing project i will be using JSON files that i will gitignore.. </li>
+<li>Under my MVC Web Application, I intend to use gitignore to ignore the bin, obj folders and JSON files; I just want the source code in source control. Moreover I will store all the Connection Strings in .JSON file and gitignore them. </li>
+<li>In terms of RPA & Testing , I'm going to gitignore files like entities, local, templates, screenshots, settings, tmh</li>
+<li>In Reporting project there won't be files that will be ignored.</li>
 </ul>
 
 ## Storage of Credentials
-- In terms of storing sensitive credentials, I’ll utilize  JSON files. I will store all my connection strings in an appsettings.json file and gitignore it.
-- Moreover some credentials where stored in UiPath Orchestrator.
+In terms of storing sensitive credentials:
+- I’ll utilize a .JSON file in API Development and Standards & Patterns. 
+- In Testing & RPA, credentials will be stored in UiPath Orchestrator.
+- In Reporting there will not be credentials that need to be stored.
 
 ## Reference List
 <ul>
